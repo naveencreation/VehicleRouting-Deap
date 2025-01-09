@@ -1,8 +1,6 @@
 
 # Vehicle Routing Problem (VRP) Solver using Genetic Algorithm
 
-![VRP Solver Banner](https://via.placeholder.com/1200x400?text=Vehicle+Routing+Problem+Solver+%7C+Genetic+Algorithm)
-
 ## Overview
 This project solves the **Vehicle Routing Problem (VRP)** using a **Genetic Algorithm (GA)** implemented with the DEAP Python library. It efficiently assigns a set of locations to multiple vehicles starting and ending at a central depot, minimizing the total distance traveled and ensuring balanced workload distribution among vehicles.
 
