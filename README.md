@@ -18,7 +18,7 @@ This project solves the **Vehicle Routing Problem (VRP)** using a **Genetic Algo
 3. Evaluate solutions based on total distance and workload balance.
 4. Plot the best solution.
 
-![Result Screenshot](result_screenshot.png)
+![Result Screenshot](vpr.png)
 
 ## Installation
 
@@ -79,7 +79,7 @@ def evalVRP(individual):
 ## Results
 The Genetic Algorithm successfully finds an optimized set of routes for the vehicles, minimizing the total travel distance and balancing the workload. Below is a visual representation of the best solution:
 
-![Best Route](result_screenshot.png)
+![Best Route](vpr.png)
 
 ## Usage
 You can adjust the following parameters:
@@ -104,4 +104,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Naveen](https://github.com/naveencreation)
